@@ -5,6 +5,8 @@ div - for divide
 cancel - for cancel
 exit - for exit
 
-e.g.) add 56
+e.g.)    add 56
          div 45
          cancel
+         div 0
+         div 0.0
